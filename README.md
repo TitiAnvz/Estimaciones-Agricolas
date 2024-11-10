@@ -37,6 +37,12 @@ Productor_nombre: Productor que invierte en suelo Argentino, de residencia local
 Inverion_moneda: Tipo de moneda que invierte cada productor
 Roi_porcent: Muestra el porcentaje del rendimiento obtenido en cada cultivo, ya sea negativo o positivo.
 
+
+Contexto Comercial
+Este modelo puede ser utilizado para empresas de la agroindustria, tanto para la plantaciòn de semillas a utilizar para futuras inversiones, como tambièn identificar terrenos para potenciar la cosecha en territorio argentino. Lo cual terminarà en un gran contexto pues se ampliarà la mano de obra generando ofertas locales, y asì atraer mas inversiones al paìs de origen.
+
+Contexto Analìtico: Se utilizarà un modelo de regresiòn para predecir futuras inversiones para el tipo de semillas a cultivar.
+
 MEDIDAS DESCRIPTIVAS
 
 DISTRIBUCION DE DATOS
