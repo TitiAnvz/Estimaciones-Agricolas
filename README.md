@@ -46,3 +46,5 @@ Contexto Analìtico: Se utilizarà un modelo de regresiòn para predecir futuras
 MEDIDAS DESCRIPTIVAS
 
 DISTRIBUCION DE DATOS
+
+
