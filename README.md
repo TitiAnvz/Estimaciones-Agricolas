@@ -82,10 +82,7 @@ Cuando realizamos el calculo de "MSE" vemos que el valor arrojado 1.620 es cerca
 Por lo tanto, podemos seguir proyectando los pròximos años en base a este anàlisis y prueba que el sector agrìcola irà creciendo y brindando oferta laboral y mejoras en la economìa Argentina.
 
 
-OBEJTIVO:
- * Conocer las plantaciones más efectivas.
- * Identificar futuras inversiones.
- * Detectar localidades en territorio argentino para la siembra.
+
 
 
 
